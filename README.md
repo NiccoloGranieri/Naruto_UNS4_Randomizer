@@ -17,8 +17,8 @@ The outcome of the battle is the added to the scoreboard to keep track of the po
 
 ## Possible Main Character Outcomes:
 
--Random
--Hidan
+- Random
+- Hidan
 -Sakura (Young)
 -Hanabi
 -Naruto (Six Paths)
