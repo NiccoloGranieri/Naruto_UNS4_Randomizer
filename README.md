@@ -17,64 +17,64 @@ The outcome of the battle is the added to the scoreboard to keep track of the po
 
 ## Possible Main Character Outcomes:
 
-- Random
+- Random (Press Triangle)
 - Hidan
--Sakura (Young)
--Hanabi
--Naruto (Six Paths)
--Sasuke (Last)
--Kaguya
--Chose Main
--Enemy Choses (Weak)
--Enemy Choses (Strong)
--Minato (Reanimation)
--Utakata
--Yugito
--Tobi (Orange)
--Madara (Reanimation)
--Kankuro (Young)
--Only Male
--Only Female
--Only Original Naruto
--b. Great Ninja War
--Great Ninja War
--Byakugan
--Sharingan
--Rinnegan
--Jinchūriki
+- Sakura (Young)
+- Hanabi
+- Naruto (Six Paths)
+- Sasuke (Last)
+- Kaguya
+- Chose Main
+- Enemy Choses (Weak)
+- Enemy Choses (Strong)
+- Minato (Reanimation)
+- Utakata
+- Yugito
+- Tobi (Orange)
+- Madara (Reanimation)
+- Kankuro (Young)
+- Only Male
+- Only Female
+- Only Original Naruto
+- b. Great Ninja War
+- Great Ninja War
+- Byakugan
+- Sharingan
+- Rinnegan
+- Jinchūriki
 
 ## Possible Team Character Outcomes:
 
--Random
--Chose Team
--Enemy Choses (Weak)
--Enemy Choses (Strong)
--Only Male
--Only Female
--Only Original Naruto
--b. Great Ninja War
--Great Ninja War
--Matching (Once the main is chosen, double press "X")
--Byakugan
--Sharingan
--Rinnegan
--Jinchūriki
+- Random (Press Triangle)
+- Chose Team
+- Enemy Choses (Weak)
+- Enemy Choses (Strong)
+- Only Male
+- Only Female
+- Only Original Naruto
+- b. Great Ninja War
+- Great Ninja War
+- Matching (Once the main is chosen, double press "X")
+- Byakugan
+- Sharingan
+- Rinnegan
+- Jinchūriki
 
 ## Possible Personal Rules:
 
--1 Ultimate Kill
--No Ultimate
--No Ninjutsu
--No Chakra Charge (No charge forward towards the enemy)
--No Charging Chakra (No charging of the chakra bar)
--No Throw
--No Shuriken
--No Awakening
--No Team Ultimate
--No Leader Exchange
--No Team (Can't use the team as help but CAN exchange leader)
--Only Taijutsu (Only Taijutsu with the main, no team, no shuriken)
--None
+- 1 Ultimate Kill
+- No Ultimate
+- No Ninjutsu
+- No Chakra Charge (No charge forward towards the enemy)
+- No Charging Chakra (No charging of the chakra bar)
+- No Throw
+- No Shuriken
+- No Awakening
+- No Team Ultimate
+- No Leader Exchange
+- No Team (Can't use the team as help but CAN exchange leader)
+- Only Taijutsu (Only Taijutsu with the main, no team, no shuriken)
+- None
 
 For any BUGS, REPORTS, REQUESTED FEATURES please add an issue on GitHub: https://github.com/NiccoloGranieri/Naruto_UNS4_Randomizer/issues
 
